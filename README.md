@@ -1,13 +1,25 @@
 # BalloonTips
 
-ClassLibrary1
+ClassLibrary1 This tree is a working copy of third-party source kept in Dave Robinson's Historical Dev archive. It is published for catalogue/reference; authorship stays with the original authors noted below.
 
-**Target:** v3.5
-## Contents
+**Language:** VB.NET  
+**Target:** v3.5  
+**Output:** Library, WinExe
 
-- `BalloonTips.sln`
-- `Test/Test.vbproj`
-- `BalloonTips/Robinson.vbproj`
+## What it is
+
+ClassLibrary1 This tree is a working copy of third-party source kept in Dave Robinson's Historical Dev archive. It is published for catalogue/reference; authorship stays with the original authors noted below.
+
+## Solution structure
+
+| Project | Language | Path |
+|---------|----------|------|
+| `Test` | VB.NET | `Test/Test.vbproj` |
+| `Robinson` | VB.NET | `BalloonTips/Robinson.vbproj` |
+
+## How to open
+
+Open `BalloonTips.sln` in Visual Studio.
 
 ## Attribution and provenance
 
