@@ -2,6 +2,7 @@
 
 ClassLibrary1 This tree is a working copy of third-party source kept in Dave Robinson's Historical Dev archive. It is published for catalogue/reference; authorship stays with the original authors noted below.
 
+**Source last updated:** 2010-02-05  
 **Language:** VB.NET  
 **Target:** v3.5  
 **Output:** Library, WinExe
