@@ -22,6 +22,10 @@ ClassLibrary1 This tree is a working copy of third-party source kept in Dave Rob
 
 Open `BalloonTips.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 - **Assembly company:** Microsoft
